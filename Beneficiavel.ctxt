@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Beneficiavel
+comment1.params=percentual
+comment1.target=void\ concederBonus(double)
+numComments=2

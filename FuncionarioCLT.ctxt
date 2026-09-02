@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=FuncionarioCLT
+comment1.params=id\ nome\ salarioBase\ imposto
+comment1.target=FuncionarioCLT(java.lang.String,\ java.lang.String,\ double,\ double)
+comment2.params=
+comment2.target=double\ calcularSalario()
+comment3.params=percentual
+comment3.target=void\ concederBonus(double)
+numComments=4
